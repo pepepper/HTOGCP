@@ -16,7 +16,7 @@ Abstract
   The server returns room number(oops,it needs 64bit interger).
   
   Guest of room(guest) requests server to login with room number.
-  The server returns borad size.
+  The server returns board size.
   
   If guest logined successfly, the server notifies clients got ready.
   Host is always black turn.
@@ -48,7 +48,7 @@ Abstract
     READY
        This command is sended when guest connected successfly.
     CLOSED
-      This command is sended when a client closed.
+      This command is sended when a client connection closed.
 
 3.Afterword
   This is joke document but this protocol works on "Othhelo" and "OthheloServer" in my repository.
