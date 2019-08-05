@@ -1,5 +1,3 @@
-MapleCloud Development Group                                       C.Shirasaka
-
 1 April 2019
 
           Hyper Text Othhelo Game Control Protocol (HTOGCP/1.0)
