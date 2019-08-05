@@ -1,5 +1,3 @@
-メープルクラウド開発チーム						白坂千春
-
 2019年4月1日
 
 	Hyper Text Othhelo Game Control Protocol (HTOGCP/1.0)
